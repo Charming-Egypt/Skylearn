@@ -1,0 +1,6 @@
+{
+  "name": "SkyLearn - تطبيق تعليم اللغات",
+  "description": "منصة متكاملة وتفاعلية لتعليم اللغات الروسية والألمانية والإيطالية مع اختبارات قياس مستوى، تمارين نطق ومحادثة، وتذكيرات يومية ذكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
